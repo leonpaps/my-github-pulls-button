@@ -1,0 +1,16 @@
+{
+    "name": "MyPullz",
+    "version": "1.0.1",
+    "description": "add the my pulls button to github",
+    "manifest_version": 3,
+    "author": "Leon",
+    "permissions": ["scripting"],
+    "content_scripts": [
+        {
+            "js": ["chrome-github-plugin.js"],
+            "matches": [
+                "https://github.com/*"
+            ]
+        }
+    ]
+}
