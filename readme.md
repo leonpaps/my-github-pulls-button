@@ -27,6 +27,6 @@ That's it!
 ### Licence:
 This code is available under the _don't be a dick licence_
 
-It is an original work. Read it, play with it and lear from it.
+It is an original work. Read it, play with it and learn from it.
 
 You are free to share it, modify it and even take credit for it, but that would a dick move.
